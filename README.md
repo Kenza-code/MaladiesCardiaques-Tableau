@@ -25,3 +25,5 @@ Ce type d'analyse peut aider les professionnels de santé et les chercheurs à c
 
 ## Visualisation des Dashboards 
 ![Part1](dashboard(1)-Project-heart-disease.png)
+
+![Part1](dashboard(2)-Project-heart-disease.png)
