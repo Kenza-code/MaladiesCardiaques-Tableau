@@ -22,3 +22,6 @@ Ce projet permet d'identifier les relations entre les variables médicales et le
 
 ## Cas d'utilisation
 Ce type d'analyse peut aider les professionnels de santé et les chercheurs à comprendre les facteurs de risque des patients et à améliorer les stratégies de prévention.
+
+## Visualisation des Dashboards 
+![Part1](dashboard(1)-Project-heart-disease.png)
